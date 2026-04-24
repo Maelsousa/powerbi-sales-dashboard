@@ -67,10 +67,3 @@ Manoel Sousa Gomes
 
 🔗 LinkedIn: https://www.linkedin.com/in/manoel-sousa-712a6b240/
 🔗 GitHub: https://github.com/Maelsousa
-
-
-
-![Clientes](imagens/clientes.png)
-![Vendas](imagens/vendas.png)
-
-
