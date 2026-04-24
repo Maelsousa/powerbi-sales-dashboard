@@ -1,5 +1,5 @@
 # sql-data-analysis-project
 
-![Clientes](images/clientes.png)
+![Clientes](imagens/clientes.png)
 
-![Vendas](images/vendas.png)
+![Vendas](imagens/vendas.png)
